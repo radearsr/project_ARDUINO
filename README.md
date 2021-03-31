@@ -9,19 +9,19 @@ Repositori Ini Adalah Repositori Untuk Redirect Link Download Source Code
 **2. ARDUINO - RFID SECURITY SYSTEM**
    * Hasil Jadi [Arduino 02 - Buka Password](https://www.instagram.com/tv/CHg12juhN6_/?utm_source=ig_web_copy_link)
    * Source Code [GitHub](http://github.com)
-   * Source Code(Google Drive) -> 
+   * Source Code(Google Drive) -> https://bit.ly/2PM2UMd
    
 **3. ARDUINO - HC-RC04 GESTURE CONTROL**
    * Hasil Jadi [Arduino 02 - Buka Password](https://www.instagram.com/tv/CIvTtjNBrDS/?utm_source=ig_web_copy_link)
    * Source Code [GitHub](http://github.com)
-   * Source Code(Google Drive) -> 
+   * Source Code(Google Drive) -> https://bit.ly/31FnyjP
 
 **4. ARDUINO - ARDUINO SOLAR PANEL TRACKER**
    * Hasil Jadi [Arduino 02 - Buka Password](https://www.instagram.com/tv/CJ9mH-jnq9-/?utm_source=ig_web_copy_link)
    * Source Code [GitHub](http://github.com)
-   * Source Code(Google Drive) -> 
+   * Source Code(Google Drive) -> https://bit.ly/3cyzXfU
 
 **5. ARDUINO - ARDUINO RADAR SYSTEM**
    * Hasil Jadi [Arduino 02 - Buka Password](https://www.instagram.com/tv/CMVnUuBhUV-/?utm_source=ig_web_copy_link)
    * Source Code [GitHub](http://github.com)
-   * Source Code(Google Drive) -> https://drive.google.com/uc?export=download&id=1mb-SQTGZ8KhpphMJUtoN1nijEb7YvUms
+   * Source Code(Google Drive) -> https://bit.ly/3rLysQ1
